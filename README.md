@@ -5,7 +5,6 @@ This project reads permissions from two CSV files, compares them, and writes the
 ## Requirements
 
 - GCC (or any C compiler)
-- Make (optional, for using a Makefile)
 
 ## Files
 
